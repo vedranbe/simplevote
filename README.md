@@ -8,6 +8,8 @@ Download ZIP file and just add plugin to Wordpress. Other option is to manualy p
 
 ## Usage
 
+![Screenshot 2024-01-15 182546](https://github.com/vedranbe/simplevote/assets/8826823/42b88181-76a6-40f0-84dc-9845c4800682)
+
 Usage is as simple as it gets. You have only two options to choose from in the "Was this article helpful?" section. Right below the post.
 
 This plugin does not use cookies. It checks whether you are logged in or not. If not, it will check your IP address. You can only vote once.
@@ -22,7 +24,7 @@ There are two fields "Thank you for your feedback.". One counts positive, other 
 
 ## Other
 
-Styling is as close, as it can be. It is also mobile friendly. There are only 3 files, PHP, JS and CSS.
+Styling is as close as it can be. It is also mobile friendly. There are only 3 files, PHP, JS and CSS.
 
 ## Contributing
 
