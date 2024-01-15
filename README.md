@@ -26,7 +26,7 @@ There are two fields "Thank you for your feedback.". One counts positive, other 
 
 ## Other
 
-Everything is test on WordPress 6.4.2.
+Everything is tested on WordPress 6.4.2.
 
 All pointer actions are disabled after voting. Styling is as close as it can be. It is also mobile friendly. There are only 3 files, PHP, JS and CSS. All functions inside files are commented.
 
