@@ -4,7 +4,7 @@ A simple Wordpress post voting plugin with positive and negative votes using Aja
 
 ## Installation
 
-Download [release](https://github.com/vedranbe/simplevote/releases/tag/Wordpress) and unpack "simplevote" folder to /wp-content/plugins. After that you just have to activate it. 
+Download [release](https://github.com/vedranbe/simplevote/releases/tag/Wordpress) and unpack "simplevote" folder to */wp-content/plugins*. After that you just have to activate it. 
 
 
 ## Preview
@@ -19,9 +19,9 @@ This plugin does not use cookies. It checks whether you are logged in or not. If
 
 It uses AJAX. When you choose what to vote for, it disables voting buttons, but shows what you voted for. Other fields are automatically changed according to data from database and your input.
 
-If you want to test how it works with multiple votes, you'll need to use your WP database. You just need to go to your wp_usermeta table and find the meta_key called voted_posts. Just delete it and you can do it again.
+If you want to test how it works with multiple votes, you'll need to use your WP database. You just need to go to your **wp_usermeta table** and find the **meta_key** called **voted_posts**. Just delete it and you can do it again.
 
-In case you want to clear all votes for any post, just go to wp_postmeta table and delete any meta_key that contains positive or negative. That's where all the votes count.
+In case you want to clear all votes for any post, just go to **wp_postmeta table** and delete any **meta_key** that contains **positive** or **negative**. That's where all the votes count.
 
 There are two fields "Thank you for your feedback.". One counts positive, other negative votes as primary. There was no explanation in the task, so it was left like this.
 
