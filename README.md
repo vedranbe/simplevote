@@ -4,7 +4,7 @@ A simple post voting plugin with positive and negative votes using Ajax.
 
 ## Installation
 
-Download "simplevote" from release and unpack it to folder in /wp-content/plugins. After that you just have to activate it. 
+Downloaad release and unpack "simplevote" folder to /wp-content/plugins. After that you just have to activate it. 
 
 ## Preview
 
