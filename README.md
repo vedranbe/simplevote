@@ -1,6 +1,6 @@
 # Post Voting Plugin
 
-A simple post voting plugin with positive and negative votes using Ajax.
+A simple Wordpress post voting plugin with positive and negative votes using Ajax.
 
 ## Installation
 
