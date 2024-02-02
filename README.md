@@ -4,7 +4,7 @@ A simple Wordpress post voting plugin with positive and negative votes using Aja
 
 ## Installation
 
-Download [release](https://github.com/vedranbe/simplevote/releases/tag/Wordpress) and unpack "simplevote" folder to */wp-content/plugins*. After that you just have to activate it. 
+Download [release](https://github.com/vedranbe/simplevote/releases/tag/Wordpress) and just install simplevote.zip file in plugin section. After that you just have to activate it. 
 
 
 ## Preview
